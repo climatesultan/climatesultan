@@ -5,6 +5,10 @@ Gokul Rajendran — Climate Sultan
   <em>Learning ancient knowledge. Building modern tools. Creating for the world.</em>
 </p>
 
+<p align="center">
+  🌿 Ayurveda &nbsp;•&nbsp; 🌳 Biodiversity &nbsp;•&nbsp; 🌍 Climate &nbsp;•&nbsp; 🧬 Traditional Knowledge &nbsp;•&nbsp; 💻 Technology
+</p>
+
 🌍 About Me
 
 I am Gokul Rajendran, also known as Climate Sultan.
@@ -35,101 +39,137 @@ It can be documented, digitised, taught, connected, experienced and shared respo
 
 My projects are experiments in doing exactly that.
 
-🚀 What I've Built
+🚀 Apps & Projects
 
-🌿 Govardhan
+🌿 Govardhan Biodiversity App
 
 A biodiversity and traditional knowledge ecosystem focused on reconnecting people with nature and preserving community knowledge.
 
-The Govardhan Biodiversity App is a community-driven platform where people can share knowledge and experiences around plants, animals, natural resources, medicinal uses, food, farming, culture and local biodiversity.
+The Govardhan Biodiversity App is a community-driven platform around plants, animals, natural resources, medicinal uses, food, farming, culture and local biodiversity.
 
-Platforms:
+📱 Get the App
 
-🌿 Govardhan Biodiversity App — Apple App Store
+<p>
+  <a href="https://apps.apple.com/in/app/govardhan-biodiversity-app/id6744970644">
+    <img src="https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store">
+  </a>
+  &nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.govardhan.govardhanindia">
+    <img src="https://img.shields.io/badge/Get_it_on-Google_Play-black?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play">
+  </a>
+</p>
 
-🌿 Govardhan Biodiversity App — Google Play
+🌱 Govardhan App — Indian Plants
 
-🌱 Govardhan Indian Plants
+An Ayurveda-focused learning application built around medicinal plants and the needs of Ayurveda students.
 
-An Ayurveda-focused learning application built around medicinal plants and the needs of BAMS and Ayurveda students.
+The app contains information on 253 medicinal plants, including Sanskrit and common names, scientific names, botanical families, morphology, Ayurvedic properties, formulations and an interactive quiz system.
 
-The app includes information on 253 medicinal plants, including Sanskrit and common names, scientific names, botanical families, morphology, Ayurvedic properties, formulations and an interactive quiz system.
+📱 Get the App
 
-Download:
-
-🌱 Apple App Store — Govardhan App: Indian Plants
+<p>
+  <a href="https://apps.apple.com/in/app/govardhan-app-indian-plants/id6744858019">
+    <img src="https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store">
+  </a>
+</p>
 
 📜 Ashtanga Hridayam
 
 A digital learning application for studying Ashtanga Hridayam, one of the foundational classical texts of Ayurveda.
 
-The app brings together Sanskrit text, English meanings, audio and search functionality to make classical Ayurvedic learning more accessible through modern technology.
+The app brings classical Ayurvedic learning into a modern digital format, with Sanskrit text, English meanings, audio and search functionality.
 
-Download:
+📱 Get the App
 
-📱 Apple App Store — Ashtanga Hridayam
-
-📱 Google Play — Ashtanga Hridayam
+<p>
+  <a href="https://apps.apple.com/in/app/ashtanga-hridayam/id6744318858">
+    <img src="https://img.shields.io/badge/Download_on_the-App_Store-black?style=for-the-badge&logo=apple&logoColor=white" alt="Download on the App Store">
+  </a>
+  &nbsp;
+  <a href="https://play.google.com/store/apps/details?id=com.govardhan.ashtangahridayam">
+    <img src="https://img.shields.io/badge/Get_it_on-Google_Play-black?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play">
+  </a>
+</p>
 
 🎬 Climate Entertainment
 
 I created Climate Entertainment, a youth-led initiative using culture, art, film, storytelling and digital media to make climate and social issues more human and emotionally meaningful.
 
-The idea is simple:
-
 Facts inform people. Stories can move them.
 
-Climate Entertainment works around climate storytelling, youth voices, documentaries, films, short-form content, creative campaigns and collaboration across communities.
+Climate Entertainment explores climate storytelling, youth voices, documentaries, films, short-form content, creative campaigns and collaboration across communities.
 
-🌐 Website: www.climateentertainment.com
+🌐 Visit
+
+<p>
+  <a href="https://www.climateentertainment.com/">
+    <img src="https://img.shields.io/badge/Visit-Climate_Entertainment-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Climate Entertainment">
+  </a>
+</p>
 
 🏛️ Govardhan Foundation
 
 I am currently working on the Govardhan Foundation website and digital ecosystem, bringing together work around biodiversity, traditional knowledge, communities, sustainability and related initiatives.
 
-🌐 Website: www.govardhanfoundation.com
+🌐 Visit
+
+<p>
+  <a href="https://www.govardhanfoundation.com/">
+    <img src="https://img.shields.io/badge/Visit-Govardhan_Foundation-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit Govardhan Foundation">
+  </a>
+</p>
+
+🖼️ Meta Image Tool
+
+A lightweight, browser-based JPEG preparation and metadata utility.
+
+The project explores client-side image processing, JPEG normalization, EXIF handling and browser-based tools without relying on a server.
+
+🔗 Explore
+
+<p>
+  <a href="https://github.com/climatesultan/meta-image-tool">
+    <img src="https://img.shields.io/badge/View_Project-Meta_Image_Tool-111111?style=for-the-badge&logo=github&logoColor=white" alt="View Meta Image Tool">
+  </a>
+</p>
 
 🌎 Climate & Global Engagement
 
 My work has also taken me into international climate spaces.
 
-I have been invited to and engaged with UNFCCC COP processes, including COP26, COP27 and COP30, in connection with my work and interests around climate, Indigenous and traditional knowledge, biodiversity, One Health and youth action.
+I have been invited to and engaged with UNFCCC COP processes, including COP26, COP27 and COP30, in connection with my work and interests around climate, biodiversity, traditional and Indigenous knowledge, One Health and youth action.
 
-My broader journey has included connecting climate conversations with subjects that are often discussed separately — including traditional medicine, biodiversity, culture, storytelling and community knowledge.
+My broader journey has included connecting subjects that are often discussed separately — including traditional medicine, biodiversity, culture, storytelling and community knowledge.
 
 🌿 Areas I Explore
 
-Ayurveda
-   │
-   ├── Traditional Medicine
-   ├── Indigenous Knowledge
-   ├── Medicinal Plants
-   ├── Sanskrit & Classical Texts
-   └── Digital Learning
+Area
 
-Biodiversity
-   │
-   ├── Plants
-   ├── Animals
-   ├── Traditional Practices
-   ├── Community Knowledge
-   └── Nature Connection
+What I explore
 
-Climate
-   │
-   ├── Youth Action
-   ├── Culture & Art
-   ├── Storytelling
-   ├── Sustainability
-   └── Global Collaboration
+🌿 Ayurveda
 
-Technology
-   │
-   ├── Mobile Applications
-   ├── Web Platforms
-   ├── Knowledge Systems
-   ├── Digital Communities
-   └── Creative Experiments
+Classical texts, medicinal plants, traditional medicine & digital learning
+
+🌳 Biodiversity
+
+Plants, animals, ecosystems & community knowledge
+
+🧬 Traditional & Indigenous Knowledge
+
+Preservation, documentation & responsible digital access
+
+🌍 Climate
+
+Youth action, sustainability & global collaboration
+
+🎬 Culture & Storytelling
+
+Film, art, media & climate communication
+
+💻 Technology
+
+Apps, websites, knowledge systems & digital communities
 
 💻 I Build
 
@@ -151,17 +191,7 @@ I am particularly interested in turning ideas into working products:
 
 🤝 Community-driven systems
 
-I don't consider myself limited to one technology or one discipline.
-
 The problem comes first. The technology follows.
-
-🧪 Open-Source & Experiments
-
-One example is Meta Image Tool — a lightweight browser-based JPEG preparation and metadata utility.
-
-It demonstrates another side of my work: building small, focused tools that solve practical problems without unnecessarily depending on large systems.
-
-➡️ Meta Image Tool
 
 📚 Learning in Public
 
@@ -203,54 +233,26 @@ The goal is not simply to digitise the past.
 
 It is to explore how knowledge from different traditions can be preserved responsibly, made accessible, connected with communities and used to inspire new solutions for the future.
 
-📲 My Work
-
-Project
-
-Focus
-
-🌿 Govardhan
-
-Biodiversity • Traditional Knowledge • Nature
-
-📚 Ayurveda Apps
-
-Ayurvedic education • Medicinal plants • Classical texts
-
-🎬 Climate Entertainment
-
-Climate • Culture • Art • Youth • Storytelling
-
-🏛️ Govardhan Foundation
-
-Biodiversity • Knowledge • Community • Sustainability
-
-🧪 Digital Experiments
-
-Technology • Web • Applications • Open Source
-
-🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/gokulrajendranindia">
-<img src="https://img.shields.io/badge/LinkedIn-Gokul%20Rajendran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-
-<a href="https://www.instagram.com/mr_cosmic_king">
-<img src="https://img.shields.io/badge/Instagram-@mr__cosmic__king-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-</a>
-
-<a href="mailto:gokul@govardhanapp.com">
-<img src="https://img.shields.io/badge/Email-gokul%40govardhanapp.com-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-</a>
-
-</p>
-
 🧭 Personal Principle
 
 <p align="center">
-  <strong>LEARN → BUILD → CONNECT → SHARE → IMPACT</strong>
+
+<strong>LEARN → BUILD → CONNECT → SHARE → IMPACT</strong>
+
+</p>
+
+🤝 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gokulrajendranindia">
+    <img src="https://img.shields.io/badge/LinkedIn-Gokul_Rajendran-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://www.instagram.com/mr_cosmic_king">
+    <img src="https://img.shields.io/badge/Instagram-@mr__cosmic__king-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="mailto:gokul@govardhanapp.com">
+    <img src="https://img.shields.io/badge/Email-gokul%40govardhanapp.com-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 <p align="center">
